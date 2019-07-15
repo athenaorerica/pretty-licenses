@@ -22,3 +22,5 @@ Always with your name on it, and always up to date.
 
 - GNU LGPLv2
 - GNU LGPLv3
+
+[![licensed mit](<https://img.shields.io/badge/license-MIT-blue.svg>)](https://license.athenas.space/mit)
