@@ -17,7 +17,8 @@
   <article>
     <img id="gravatar" src="https://gravatar.com/avatar/f495dd18d2794608fcfe55222ebec3f8?s=512">
     <h1>The MIT License (MIT)</h1>
-    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="https://athenas.space/">Erica Garcia [athenaorerica]</a>
+    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="https://athenas.space/">Erica
+        Garcia [athenaorerica]</a>
       &lt;<a href="mailto:me@athenas.space">me@athenas.space</a>&gt;</p>
 
     <p>Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -39,8 +40,12 @@
       THE SOFTWARE.</p>
   </article>
   <footer>
-    <p>part of the <a href="https://github.com/athenaorerica/pretty-licenses">pretty-licenses</a> project by <a href="https://athenas.space">athenaorerica</a> &sdot; based on <a href="https://github.com/remy/mit-license">mit-license</a> by <a href="https://github.com/remy">Remy Sharp</a></p>
-    <p><a href="https://github.com/ahaasler/mit-license-material-theme">material-indigo</a> theme by <a href="https://github.com/ahaasler">ahaasler</a></p>
+    <p>part of the <a href="https://github.com/athenaorerica/pretty-licenses">pretty-licenses</a> project by <a
+        href="https://athenas.space">athenaorerica</a> &sdot; based on <a
+        href="https://github.com/remy/mit-license">mit-license</a> by <a href="https://github.com/remy">Remy Sharp</a>
+    </p>
+    <p><a href="https://github.com/ahaasler/mit-license-material-theme">material-indigo</a> theme by <a
+        href="https://github.com/ahaasler">ahaasler</a></p>
   </footer>
 </body>
 
