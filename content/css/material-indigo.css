@@ -35,11 +35,10 @@ article h1 {
     color: #fff;
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
-    height: 4.5em;
+    height: auto;
     width: 100%;
     margin: 0 auto;
     padding-top: 3.5em;
-    padding-bottom: .7em;
     box-sizing: border-box;
     font-size: 2em;
     font-weight: 300
