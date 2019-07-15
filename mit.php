@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html id="home" lang="en">
+<!--
+mit.php
+this file is part of pretty-licenses
+
+The MIT License, prettified.
+
+written by and copyright © 2019 Erica Garcia [athenaorerica] <me@athenas.space>
+licensed under the MIT license [https://license.athenas.space/mit] | SPDX-License-Identifier: MIT
+
+this code says: trans rights
+
+don't like that? suck it up, or write your own code ^-^
+-->
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
