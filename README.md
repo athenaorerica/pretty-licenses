@@ -14,11 +14,11 @@ Always with your name on it, and always up to date.
 - MIT License
 - New BSD / Modified BSD / BSD 3-Clause License
 - GNU GPLv2
+- GNU GPLv3
 
 
 
 ## Licenses I'm working on
 
-- GNU GPLv3
 - GNU LGPLv2
 - GNU LGPLv3
