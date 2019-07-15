@@ -413,32 +413,35 @@ don't like that? suck it up, or write your own code ^-^
         GNU General Public License for more details.<br>
         <br>
         You should have received a copy of the GNU General Public License<br>
-        along with this program. If not, see &lt;https://www.gnu.org/licenses/&gt;.
+        along with this program. If not, see &lt;https://www<wbr>.gnu<wbr>.org<wbr>/licenses/&gt;.
       </span>
-      <br><br>
-      Also add information on how to contact you by electronic and paper mail.
-      <br><br>
-      If the program is interactive, make it output a short notice like this when it starts in an interactive mode:
-      <br><br>
-      <span class="code">
-        &lt;program&gt; Copyright (C) &lt;year&gt; &lt;name of author&gt;<br>
-        This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.<br>
-        This is free software, and you are welcome to redistribute it<br>
-        under certain conditions; type `show c' for details.
-      </span><br><br>
-      The hypothetical commands `show w' and `show c' should show the appropriate parts of the General Public License.
-      Of course, your program's commands might be different; for a GUI interface, you would use an “about box”.
-      <br><br>
-      You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright
-      disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL,
-      see &lt;<a href="https://www.gnu.org/licenses">https://www.gnu.org/licenses</a>&gt;.
-      <br>
-      <br>
-      The GNU General Public License does not permit incorporating your program into proprietary programs. If your
-      program is a subroutine library, you may consider it more useful to permit linking proprietary applications with
-      the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License.
-      But first, please read &lt;<a
-        href="https://www.gnu.org/licenses/why-not-lgpl.html">https://www.gnu.org/licenses/why-not-lgpl.html</a>&gt;.
+        <br><br>
+        Also add information on how to contact you by electronic and paper mail.
+        <br><br>
+        If the program is interactive, make it output a short notice like this when it starts in an interactive mode:
+        <br><br>
+        <span class="code">
+          &lt;program&gt; Copyright (C) &lt;year&gt; &lt;name of author&gt;<br>
+          This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.<br>
+          This is free software, and you are welcome to redistribute it<br>
+          under certain conditions; type `show c' for details.
+        </span><br><br>
+        The hypothetical commands `show w' and `show c' should show the appropriate parts of the General Public License.
+        Of course, your program's commands might be different; for a GUI interface, you would use an “about box”.
+        <br><br>
+        You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright
+        disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU
+        GPL,
+        see &lt;<a href="https://www.gnu.org/licenses">https://www<wbr>.gnu<wbr>.org<wbr>/licenses</a>&gt;.
+          <br>
+          <br>
+          The GNU General Public License does not permit incorporating your program into proprietary programs. If your
+          program is a subroutine library, you may consider it more useful to permit linking proprietary applications
+          with
+          the library. If this is what you want to do, use the GNU Lesser General Public License instead of this
+          License.
+          But first, please read &lt;<a
+            href="https://www.gnu.org/licenses/why-not-lgpl.html">https://www<wbr>.gnu<wbr>.org<wbr>/licenses<wbr>/why-not-lgpl.html</a>&gt;.
     </p>
   </article>
   <footer>
