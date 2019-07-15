@@ -11,11 +11,8 @@ Always with your name on it, and always up to date.
 *If you want a license added, submit an issue, or better yet, a PR with your addition.*
 
 - Apache 2.0 License
-
 - MIT License
-
 - New BSD / Modified BSD / BSD 3-Clause License
-
 - GNU GPLv2
 
 
