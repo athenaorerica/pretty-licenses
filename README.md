@@ -17,7 +17,7 @@ Always with your name on it, and always up to date.
  - [x] GNU GPLv3
  - [x] GNU LGPLv2
  - [x] GNU LGPLv2.1
- - [ ] GNU LGPLv3
+ - [x] GNU LGPLv3
 
 
 
