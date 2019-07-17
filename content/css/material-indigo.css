@@ -102,6 +102,12 @@ article p.moreindent {
     padding: 0 4.5em;
 }
 
+article p.evenmoreindent {
+    font-size: .725em;
+    color: #8c8c8c;
+    padding: 0 5.5em;
+}
+
 article .code {
     text-align: left;
     font-family: monospace;
