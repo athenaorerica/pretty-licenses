@@ -15,7 +15,7 @@ Always with your name on it, and always up to date.
  - [x] New BSD / Modified BSD / BSD 3-Clause License
  - [x] GNU GPLv2
  - [x] GNU GPLv3
- - [ ] GNU LGPLv2
+ - [x] GNU LGPLv2
  - [ ] GNU LGPLv3
 
 
