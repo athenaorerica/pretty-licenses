@@ -6,7 +6,7 @@ this file is part of pretty-licenses
 
 The BSD 3-Clause License, prettified.
 
-written by and copyright © 2019 Erica Garcia [athenaorerica] <me@athenas.space>
+written by and copyright © 2019 Erica Garcia [athenaorerica] <me@athenas.space>>
 licensed under the MIT license [https://license.athenas.space/mit] | SPDX-License-Identifier: MIT
 
 this code says: trans rights
@@ -28,11 +28,10 @@ don't like that? suck it up, or write your own code ^-^
 
 <body>
   <article>
-    <img id="gravatar" src="https://gravatar.com/avatar/f495dd18d2794608fcfe55222ebec3f8?s=512">
+    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $_ENV['PRETTYLICENSE_AVATAR'];?>?s=512">
     <h1>The BSD 3-Clause License (BSD-3-Clause)</h1>
-    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="https://athenas.space/">Erica
-        Garcia [athenaorerica]</a>
-      &lt;<a href="mailto:me@athenas.space">me@athenas.space</a>&gt;</p>
+    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $_ENV['PRETTYLICENSE_URL'];?>"><?php echo $_ENV['PRETTYLICENSE_AUTHOR'];?></a>
+      &lt;<a href="mailto:<?php echo $_ENV['PRETTYLICENSE_EMAIL'];?>"><?php echo $_ENV['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
 
     <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the
       following conditions are met:</p>
