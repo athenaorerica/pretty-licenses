@@ -6,7 +6,7 @@ this file is part of pretty-licenses
 
 Apache 2.0 License, prettified.
 
-written by and copyright © 2019 Erica Garcia [athenaorerica] <me@athenas.space>
+written by and copyright © 2020 Erica Garcia [ericathesnark] <me@athenas.space>
 licensed under the MIT license [https://license.athenas.space/mit] | SPDX-License-Identifier: MIT
 
 this code says: trans rights
@@ -31,7 +31,7 @@ don't like that? suck it up, or write your own code ^-^
     <img id="gravatar" src="https://gravatar.com/avatar/f495dd18d2794608fcfe55222ebec3f8?s=512">
     <h1>The Apache License 2.0 (Apache-2.0)</h1>
     <p>Work (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="https://athenas.space/">Erica
-        Garcia [athenaorerica]</a>
+        Garcia [ericathesnark]</a>
       &lt;<a href="mailto:me@athenas.space">me@athenas.space</a>&gt;</p>
     <p>Apache License<br>
       Version 2.0, January 2004<br>
@@ -161,8 +161,8 @@ don't like that? suck it up, or write your own code ^-^
       </p>
   </article>
   <footer>
-    <p>part of the <a href="https://github.com/athenaorerica/pretty-licenses">pretty-licenses</a> project by <a
-        href="https://athenas.space">athenaorerica</a> &sdot; based on <a
+    <p>part of the <a href="https://github.com/ericathesnark/pretty-licenses">pretty-licenses</a> project by <a
+        href="https://athenas.space">ericathesnark</a> &sdot; based on <a
         href="https://github.com/remy/mit-license">mit-license</a> by <a href="https://github.com/remy">Remy Sharp</a>
     </p>
     <p><a href="https://github.com/ahaasler/mit-license-material-theme">material-indigo</a> theme by <a
