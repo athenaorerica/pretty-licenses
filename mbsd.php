@@ -28,10 +28,11 @@ don't like that? suck it up, or write your own code ^-^
 
 <body>
   <article>
-    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $_ENV['PRETTYLICENSE_AVATAR'];?>?s=512">
+<?php $cfg = parse_ini_file("/license-confs/".$_SERVER['HTTP_HOST'].".ini");?>
+    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $cfg['PRETTYLICENSE_AVATAR'];?>?s=512">
     <h1>The BSD 3-Clause License (BSD-3-Clause)</h1>
-    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $_ENV['PRETTYLICENSE_URL'];?>"><?php echo $_ENV['PRETTYLICENSE_AUTHOR'];?></a>
-      &lt;<a href="mailto:<?php echo $_ENV['PRETTYLICENSE_EMAIL'];?>"><?php echo $_ENV['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
+    <p>Software (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $cfg['PRETTYLICENSE_URL'];?>"><?php echo $cfg['PRETTYLICENSE_AUTHOR'];?></a>
+      &lt;<a href="mailto:<?php echo $cfg['PRETTYLICENSE_EMAIL'];?>"><?php echo $cfg['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
 
     <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the
       following conditions are met:</p>

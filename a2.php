@@ -28,10 +28,11 @@ don't like that? suck it up, or write your own code ^-^
 
 <body>
   <article>
-    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $_ENV['PRETTYLICENSE_AVATAR'];?>?s=512">
+<?php $cfg = parse_ini_file("/license-confs/".$_SERVER['HTTP_HOST'].".ini");?>
+    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $cfg['PRETTYLICENSE_AVATAR'];?>?s=512">
     <h1>The Apache License 2.0 (Apache-2.0)</h1>
-    <p>Work (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $_ENV['PRETTYLICENSE_URL'];?>"><?php echo $_ENV['PRETTYLICENSE_AUTHOR'];?></a>
-      &lt;<a href="mailto:<?php echo $_ENV['PRETTYLICENSE_EMAIL'];?>"><?php echo $_ENV['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
+    <p>Work (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $cfg['PRETTYLICENSE_URL'];?>"><?php echo $cfg['PRETTYLICENSE_AUTHOR'];?></a>
+      &lt;<a href="mailto:<?php echo $cfg['PRETTYLICENSE_EMAIL'];?>"><?php echo $cfg['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
     <p>Apache License<br>
       Version 2.0, January 2004<br>
       http://www.apache.org/licenses/</p>

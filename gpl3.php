@@ -28,10 +28,11 @@ don't like that? suck it up, or write your own code ^-^
 
 <body>
   <article>
-    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $_ENV['PRETTYLICENSE_AVATAR'];?>?s=512">
+<?php $cfg = parse_ini_file("/license-confs/".$_SERVER['HTTP_HOST'].".ini");?>
+    <img id="gravatar" src="https://gravatar.com/avatar/<?php echo $cfg['PRETTYLICENSE_AVATAR'];?>?s=512">
     <h1>The GNU GPL, Version 3 (GPL-3.0)</h1>
-    <p>Program (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $_ENV['PRETTYLICENSE_URL'];?>"><?php echo $_ENV['PRETTYLICENSE_AUTHOR'];?></a>
-      &lt;<a href="mailto:<?php echo $_ENV['PRETTYLICENSE_EMAIL'];?>"><?php echo $_ENV['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
+    <p>Program (not License!) is &sdot; <br>Copyright © <?php echo date("Y"); ?> <a href="<?php echo $cfg['PRETTYLICENSE_URL'];?>"><?php echo $cfg['PRETTYLICENSE_AUTHOR'];?></a>
+      &lt;<a href="mailto:<?php echo $cfg['PRETTYLICENSE_EMAIL'];?>"><?php echo $cfg['PRETTYLICENSE_EMAIL'];?></a>&gt;</p>
     <p>GNU GENERAL PUBLIC LICENSE
       <br>
       Version 3, 29 June 2007
