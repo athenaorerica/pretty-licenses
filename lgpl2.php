@@ -6,7 +6,7 @@ this file is part of pretty-licenses
 
 GNU Library GPL Version 2, prettified.
 
-written by and copyright © 2019 Erica Garcia [athenaorerica] <me@athenas.space>>
+written by and copyright © 2020 Erica Garcia [ericathesnark] <me@athenas.space>
 licensed under the MIT license [https://license.athenas.space/mit] | SPDX-License-Identifier: MIT
 
 this code says: trans rights
@@ -337,8 +337,8 @@ don't like that? suck it up, or write your own code ^-^
     </p>
   </article>
   <footer>
-    <p>part of the <a href="https://github.com/athenaorerica/pretty-licenses">pretty-licenses</a> project by <a
-        href="https://athenas.space">athenaorerica</a> &sdot; based on <a
+    <p>part of the <a href="https://github.com/ericathesnark/pretty-licenses">pretty-licenses</a> project by <a
+        href="https://athenas.space">ericathesnark</a> &sdot; based on <a
         href="https://github.com/remy/mit-license">mit-license</a> by <a href="https://github.com/remy">Remy Sharp</a>
     </p>
     <p><a href="https://github.com/ahaasler/mit-license-material-theme">material-indigo</a> theme by <a
